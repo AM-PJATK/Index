@@ -1,10 +1,5 @@
 # Index
 
-Here's the checklist formatted in Markdown:
-
-```markdown
-# Mathematical Concepts Checklist
-
 ## A
 - [ ] Actual solution of a differential equation 1 (XI/1)
 - [ ] Antiderivative 1 (VIII/1)
